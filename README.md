@@ -1,6 +1,4 @@
 # Big-Ideas-Final-Project
-Which Pitt neighborhood is best for rats?
-
 Team 50
 Quinn Newman, Megan Hrach, Adam Schmidt
 
