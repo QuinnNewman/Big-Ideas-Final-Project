@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-Team 50
+Team 50:
 Quinn Newman, Megan Hrach, Adam Schmidt
 
 Datasets:
