@@ -1,6 +1,6 @@
 # Big-Ideas-Final-Project
 Rat Realtors:
-Quinn Newman(qmn2@pitt.edu), Megan Hrach, Adam Schmidt(aes292@pitt.edu)
+Quinn Newman(qmn2@pitt.edu), Megan Hrach(msh101@pitt.edu), Adam Schmidt(aes292@pitt.edu)
 
 Canvas Group Number: 50
 Datasets:
