@@ -2,6 +2,7 @@
 Rat Realtors:
 Quinn Newman(qmn2@pitt.edu), Megan Hrach, Adam Schmidt(aes292@pitt.edu)
 
+Canvas Group Number: 50
 Datasets:
 
 Quinn: Condemned and Dead-end properties - https://data.wprdc.org/dataset/condemned-properties - Data set of all the condemned and dead end properties in Pittsburgh
